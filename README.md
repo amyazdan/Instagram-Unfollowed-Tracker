@@ -1,7 +1,7 @@
 
 # Instagram Unfollower Tracker
 
-This Python script allows you to track who unfollowed you on Instagram. It uses the Selenium library to automate interactions with the Instagram website.
+This Python script allows you to track who unfollowed you on Instagram by scraping your follow and following lists. It uses the Selenium library to automate interactions with the Instagram website.
 
 ## Prerequisites
 
